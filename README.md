@@ -627,6 +627,7 @@ contextual data for anyone who emails you.
 * [headreach](https://www.leadfuze.com/) - Find fresh leads, instantly.
 * [HPI Identity Leak Checker](https://sec.hpi.uni-potsdam.de/ilc/search;jsessionid=A94B3A03C67B00F3B0FADB4A8C08E6FA) - Has your identity data been spied on.
 * [Hunter](https://hunter.io/) - Hunter lets you find email addresses in seconds and connect with the people that matter for your business.
+* [Hudson Rock](https://www.hudsonrock.com/threat-intelligence-cybercrime-tools) - Free Infostealer intelligence toolset to check if the email address was compromised in a global Infostealer malware attack. 
 * [Infoga](https://github.com/m4ll0k/infoga) - Infoga is a tool gathering email accounts informations from different public source and check if emails was leaked using haveibeenpwned.com.
 * [MailTester](https://mailtester.com/testmail.php) - Here you can enter an e-mail address to verify if it exists of if there are problems with it.
 * [ManyContacts Email Check](https://www.manycontacts.com/en/mail-check) - Provide email addresses and we discover all related social network profiles: linkedin, twitter, facebook, angelList... 
